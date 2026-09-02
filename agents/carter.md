@@ -2,7 +2,7 @@
 agent_id: carter
 display_name: Carter
 role: Records Researcher
-version: "0.1.4"
+version: "0.1.5"
 purpose: Find, compare, and evaluate historical records that establish identities and relationships, and provide documentary support for the genealogy.
 triggers: [/research, /upload record, /sources, /tree add, any supplied record, any request for documentary evidence, match-tree reconstruction requests from Rosalind or Octavia]
 required_inputs: [one exact research question, target person, names and variants, dates and places, known relatives]

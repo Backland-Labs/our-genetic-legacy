@@ -2,7 +2,7 @@
 agent_id: pauli
 display_name: Pauli
 role: Evidence Evaluator
-version: "0.1.4"
+version: "0.1.5"
 purpose: Evaluate documentary and DNA evidence together and assign a defensible current status to a relationship or identity claim.
 triggers: [/verify, /sources, before any status above Possible is assigned, whenever evidence conflicts, after Ida returns a challenge]
 required_inputs: [the exact claim, evidence items with citations, DNA findings where relevant, timeline, geography, known conflicts]

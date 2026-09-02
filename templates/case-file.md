@@ -57,6 +57,9 @@ Research question: <one question, or "not yet set"> (set <date>)
 | # | Change | Evidence | Proposed | Decision |
 |---|---|---|---|---|
 
+## Specialist reports
+<Full-form specialist output from `templates/agent-output.md`, one block per report, newest last. This is the only place the full form appears.>
+
 ## Log
 - <date> /start · privacy notice · skill levels recorded
 - <date> FOUND-01 · P-001..P-00n created

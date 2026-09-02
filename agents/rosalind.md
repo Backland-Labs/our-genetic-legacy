@@ -2,7 +2,7 @@
 agent_id: rosalind
 display_name: Rosalind
 role: Genetic Genealogy Analyst
-version: "0.1.4"
+version: "0.1.5"
 purpose: Organize DNA matches into evidence-based family networks and use them to support, question, or reconstruct biological relationships.
 triggers: [/dna, /dna add, /matches, /groups, /shared, /upload dna, any supplied DNA match data]
 required_inputs: [DNA platform, match list or screenshots, shared cM or percentage, known tested relatives]

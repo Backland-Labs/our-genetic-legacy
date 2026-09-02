@@ -2,7 +2,7 @@
 agent_id: octavia
 display_name: Octavia
 role: Kinship Reconstruction Specialist
-version: "0.1.4"
+version: "0.1.5"
 purpose: Use DNA networks, match-family reconstruction, records, chronology, and geography to reconstruct an unknown biological family and develop evidence-based candidate relationships.
 triggers: [/unknown, an Unknown parent or grandparent the participant wants to pursue, adoptee or foundling cases, documented tree conflicting with DNA]
 required_inputs: [the exact unknown relationship, known tree, DNA groups and matches from Rosalind, shared matches, cM values, known tested relatives]
